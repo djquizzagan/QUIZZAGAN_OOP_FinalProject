@@ -17,7 +17,7 @@ The system allows users to choose from different room types (Standard, Suite, an
 
 ### 1. **Encapsulation**:
    - Each class encapsulates its data like room type, description, price range and provides methods to interact with that data.
-   - The program uses private attributes for room properties and exposes them through public getter methods like 
+   - The program uses private attributes for room properties and exposes them through public getter methods.
 
 ### 2. **Abstraction**:
    - The **Room** class serves as an abstract base class that defines the general structure of rooms and leaves the details of each room type (Standard, Suite, and Deluxe) to be implemented in their respective subclasses.
