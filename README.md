@@ -31,7 +31,7 @@ The system allows users to choose from different room types (Standard, Suite, an
 
 ## III. 🌏Integration of SDG (Sustainable Development Goal)
 
-### Chosen SDG: **Goal 8 - Decent Work and Economic Growth**
+### Chosen SDG: 
 
 SDG 9: Industry, Innovation, Infrastructure
 
