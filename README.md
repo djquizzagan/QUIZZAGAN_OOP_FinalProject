@@ -31,16 +31,14 @@ The system allows users to choose from different room types (Standard, Suite, an
 
 ## III. 🌏Integration of SDG (Sustainable Development Goal)
 
-### Chosen SDG: 
-
 SDG 9: Industry, Innovation, Infrastructure
 
-    The system is associated with a digital approach that allows a no-appearance reservation by the user and secures anything indicated in the reservation. It promotes innovation especially in rural areas wherein there are numerous hotels but guests cannot assure the reservation until they book it personally which is time consuming and not practical. The automation of this system enhances operational efficiency, reducing reliance on manual processes and minimizing human error, which is a vital part of innovating and modernizing transactions. As this system of innovation emerges, the modern time of technology grows for more and for the better. Not only for the wants of users, but most especially for essentials of different people who need comfort and accommodation. 
+The system is associated with a digital approach that allows a no-appearance reservation by the user and secures anything indicated in the reservation. It promotes innovation especially in rural areas wherein there are numerous hotels but guests cannot assure the reservation until they book it personally which is time consuming and not practical. The automation of this system enhances operational efficiency, reducing reliance on manual processes and minimizing human error, which is a vital part of innovating and modernizing transactions. As this system of innovation emerges, the modern time of technology grows for more and for the better. Not only for the wants of users, but most especially for essentials of different people who need comfort and accommodation. 
 
 
 SDG 8: Decent Work and Economic Growth
 
-    Integration of innovation and business leads to the growth of the economy. The system provides an opportunity for businesses to bloom with the use of a system like this. Using this system encourages most businesses to embrace e-commerce and online services that are important for the uprise of industry. When people see a chance like this, the likes of the tourism department rises because people will be more engaged to travel and explore once there is a platform like this. As more travelers and tourists become part of the economic interactions, many opportunities are on the way which is a vital factor of progression and economic growth. Additionally, the data insights provided by the system can help hotels refine their marketing and pricing strategies, improving financial stability and ensuring long term growth.  
+Integration of innovation and business leads to the growth of the economy. The system provides an opportunity for businesses to bloom with the use of a system like this. Using this system encourages most businesses to embrace e-commerce and online services that are important for the uprise of industry. When people see a chance like this, the likes of the tourism department rises because people will be more engaged to travel and explore once there is a platform like this. As more travelers and tourists become part of the economic interactions, many opportunities are on the way which is a vital factor of progression and economic growth. Additionally, the data insights provided by the system can help hotels refine their marketing and pricing strategies, improving financial stability and ensuring long term growth.  
 
 
 ## IV. ⚙️Instructions for Running the Program
